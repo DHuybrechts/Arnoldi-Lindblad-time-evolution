@@ -4,6 +4,9 @@
 
 ## Popular summary:
 
+Characterizing the dynamical properties of open quantum systems is a major theoretical challenge. For instance, determining how long quantum properties survive the action of dissipation is pivotal for the development of quantum technologies. Such a task is accomplished by the diagonalization of the Liouvillian superoperator, i.e., the mathematical object encoding both the coherent and dissipative evolution of a system. The Liouvillian eigendecomposition, however, is numerically challenging, and it is common practice to investigate dynamical properties by simply integrating the corresponding equations of motion. These types of extrapolations, however, discard much of the information about the system’s evolution, and become inefficient and imprecise in many cases.
+
+Here, we present a new algorithm that combines the efficiency of the time evolution with the precision and effectiveness of the Liouvillian diagonalization. We perform a series of consecutive short evolutions on appropriately renormalized density matrices, consistent with an Arnoldi iteration algorithm performed on the system’s dynamical map. Accordingly, we construct a reduced Liouvillian incorporating all the dynamical properties otherwise “hidden” by the complexity of the dissipative dynamics. The diagonalization of this much smaller reduced Liouvillian retrieves the long-living dynamical properties up to numerical precision and, moreover, manages to determine the long-time dynamics from a much shorter one, making it a faster-than-the-clock algorithm. Our algorithm is general and can be applied to any system described by a Lindblad master equation, including Floquet (i.e., periodically driven) ones.
 
 ## Article abstract:
 

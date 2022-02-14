@@ -1,6 +1,6 @@
 # Arnoldi-Lindblad time evolution: Faster-than-the-clock algorithm for the spectrum of time-independent and Floquet open quantum systems
 
-[1] F. Minganti and D. Huybrechts, Arnoldi-Lindblad time evolution: Faster-than-the-clock algorithm for the spectrum of (Floquet) open quantum systems, [arXiv:2109.01648](https://arxiv.org/abs/2109.01648) (2022).
+[1] F. Minganti and D. Huybrechts, Arnoldi-Lindblad time evolution: Faster-than-the-clock algorithm for the spectrum of time-independent and Floquet open quantum systems, [Quantum 6, 649](https://doi.org/10.22331/q-2022-02-10-649) (2022).
 
 ## Popular summary:
 
@@ -27,7 +27,7 @@ An application of the method will be published on the arXiv in the foreseeable f
 
 ## References:
 
-[1] F. Minganti and D. Huybrechts, Arnoldi-Lindblad time evolution: Faster-than-the-clock algorithm for the spectrum of (Floquet) open quantum systems, [arXiv:2109.01648](https://arxiv.org/abs/2109.01648) (2022).
+[1] F. Minganti and D. Huybrechts, Arnoldi-Lindblad time evolution: Faster-than-the-clock algorithm for the spectrum of time-independent and Floquet open quantum systems, [Quantum 6, 649](https://doi.org/10.22331/q-2022-02-10-649) (2022).
 
 [2] J. Johansson, P. Nation and F. Nori, QuTiP: An open-source Python framework for the dynamics of open quantum systems, [Comput. Phys. Commun. 183, 1760](https://www.sciencedirect.com/science/article/abs/pii/S0010465512000835?via%3Dihub) (2012).
 
